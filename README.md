@@ -39,7 +39,7 @@ As a UX Practice, we must be swift and bold with our actions. This means lean re
 Refine and move to high fidelity wireframes ONLY if needed for marketing purposes. Engineering team does not need high fidelity wireframes in order to
 
 ### UX Kanban Defined
-| Phase      | Lead    | Advisors + Followers |
+| **Phase** | **Lead** | **Advisors + Followers** |
 |------------|---------|----------------------|
 | **Definition** | Product | UX, Engineering, CSM |
 | **Design** | UX | Product, Engineering, CSM |
@@ -80,10 +80,9 @@ Before we utilize any graphic assets, we must listen, draw, share, and repeat. L
 - Edwin Marty (VP Engineering)
 
 _Team membership need updating_
-
 | Wolfpack  | Planeteers  | Thundercats |  Autobots | Master Blaster | CoreApps |
 |----------|--------|--------|--------|--------|-------|
-| Brian Malinconico (lead)  | Brian Malinconico (lead)  | Abram Simon (lead) | Matt Abbott (lead) | Rob Johnson (lead) | Brendan Erwin (lead) |
+| Brian Malinconico (lead) | Brian Malinconico (lead) | Abram Simon (lead) | Matt Abbott (lead) | Rob Johnson (lead) | Brendan Erwin (lead) |
 | Stephen Reid  | David Harkness  | Jonathan Cantrell | Tyler Hastings | Stevie Vines |  |
 | Brandon Cummings  | Nathaniel Rowe   | Brandon Cummings |  |  |  |
 | Chris Kittredge  | Wendy Yang  |  |  |  |  |
@@ -94,10 +93,11 @@ _Team membership need updating_
 **Team Leadership:**
 - Bryan Brown (CPO)
 
-| Name  | Initiatives  |
+| Name | Initiatives |
 |----------|--------|
 | Niraj Rana  | LinkedIn, oAuth, etc  |
 | Sunny Bradshaw  | Engagement Metrics, Targeting, New Reporting, etc.  |
+| Jack McGlinchy  | Learn all the things  |
 
 ### User Experience
 **Team Leadership:**
