@@ -94,10 +94,11 @@ _Team membership need updating_
 **Team Leadership:**
 - Bryan Brown (CPO)
 
-| Name  | Initiatives  |
+| Name | Initiatives |
 |----------|--------|
 | Niraj Rana  | LinkedIn, oAuth, etc  |
 | Sunny Bradshaw  | Engagement Metrics, Targeting, New Reporting, etc.  |
+| Jack McGlinchy  | Learn all the things  |
 
 ### User Experience
 **Team Leadership:**
