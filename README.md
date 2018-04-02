@@ -113,6 +113,4 @@ _Team membership need updating_
 
 ## Points of Reference
 
-[Product Development Team Overview](https://docs.google.com/a/terminus.com/spreadsheets/d/1oPGXr9Hkb7ymLnOe0F6EqnpVJ9iCuvTBdneKeDqpT0Y/edit?usp=sharing)
-
-[Engineering + Product --- People, Projects & Roadmap](https://docs.google.com/a/terminus.com/spreadsheets/d/1mSaMLXyjzyxb1BpAAjda_bNfNCZhTjoZp-5h-AnHZCA/edit?usp=sharing)
+TBD
