@@ -53,7 +53,7 @@ With a baseline understanding of how each job contributes to a greater goal, our
 
 \* Plan a follow up meeting between all members or some members of the team.
 
-## Recurring Terminus team meetings
+## Recurring Terminus team meetings (TBD)
 
 1. Sales Team
 2. Customer Success
