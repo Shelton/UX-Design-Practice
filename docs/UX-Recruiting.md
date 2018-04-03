@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # General Recruiting Process
 An applicant should expect to wait 2-3 business days between each step of the hiring process for a direct response. An applicant, at any time, is welcome to contact the Maggie or the hiring manager for an update on the process.
 
