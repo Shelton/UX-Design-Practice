@@ -7,7 +7,8 @@ Here are some great articles, podcasts, books, and groups that we think are grea
 
 ### Articles
 
-1. [Design Ethics]()
+1. [The Designer's Code of Ethics - Mike Montiero](https://github.com/mmmonteiro/designethics/blob/master/en_US.md)
+2. [The Evolution of Modern Product Discovery - Teresa Torres](https://www.producttalk.org/2017/02/evolution-product-discovery/)
 
 ### Paper books
 
