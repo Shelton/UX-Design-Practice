@@ -12,9 +12,10 @@ Here are some great articles, podcasts, books, and groups that we think are grea
 
 ### Paper books
 
-1. Redesigning Leadership (at Shelton's desk)
-2. Lean Analytics (at Shelton's desk)
-3. TBD
+1. Terminus Library on [Libib](https://terminus.libib.com/)
+2. Redesigning Leadership (at Shelton's desk)
+3. Lean Analytics (at Shelton's desk)
+4. TBD
 
 ### Audio books (that can be borrowed / shared)
 
