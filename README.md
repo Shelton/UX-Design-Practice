@@ -39,6 +39,7 @@ As a UX Practice, we must be swift and bold with our actions. This means lean re
 Refine and move to high fidelity wireframes ONLY if needed for marketing purposes. Engineering team does not need high fidelity wireframes in order to
 
 ### UX Kanban Defined
+
 | **Phase** | **Lead** | **Advisors + Followers** |
 |------------|---------|----------------------|
 | **Definition** | Product | UX, Engineering, CSM |
@@ -59,6 +60,7 @@ Before we utilize any graphic assets, we must listen, draw, share, and repeat. L
 2. Master Graphic Asset Folder (icons, colors, fonts, oh my!)
 
 ### UX Tools in Use
+
 | Tool | Use |
 |------|-----|
 | [SketchApp](https://www.sketchapp.com/) | Main high fidelity wireframing tool |
@@ -80,6 +82,7 @@ Before we utilize any graphic assets, we must listen, draw, share, and repeat. L
 - Edwin Marty (VP Engineering)
 
 _Team membership need updating_
+
 | Wolfpack  | Planeteers  | Thundercats |  Autobots | Master Blaster | CoreApps |
 |----------|--------|--------|--------|--------|-------|
 | Brian Malinconico (lead) | Brian Malinconico (lead) | Abram Simon (lead) | Matt Abbott (lead) | Rob Johnson (lead) | Brendan Erwin (lead) |
@@ -97,11 +100,11 @@ _Team membership need updating_
 |----------|--------|
 | Niraj Rana  | LinkedIn, oAuth, etc  |
 | Sunny Bradshaw  | Engagement Metrics, Targeting, New Reporting, etc.  |
-| Jack McGlinchy  | Learn all the things  |
+| Jack McGlinchey  | Learn all the things  |
 
 ### User Experience
 **Team Leadership:**
-- Shelton Davis ()
+- Shelton Davis (Sr. UX Designer)
 
 | Name  | Initiatives  |
 |----------|--------|
