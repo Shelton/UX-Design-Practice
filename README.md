@@ -15,11 +15,9 @@ As a growing UX Team, we are doing our best to document the process so that thos
 1. [Recruiting Process](docs/UX-Recruiting.md)
 2. [Onboarding Zebras](docs/UX-Onboarding-Mentoring.md).
 3. [UI Design Library](https://github.com/GetTerminus/terminus-ui)
+3. [UX Process](docs/UX-Process.md)
+3. [Product Engineering Teams](docs/Product-Engineering-Teams.md)
 
-Cheers!
-
-Shelton Davis
-Senior UX Designer
 
 ---
 
