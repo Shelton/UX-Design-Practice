@@ -6,7 +6,7 @@ layout: default
 Who are the people and what are they working on? This might help you put a face to a name.
 
 ## Terminus Organization Chart
-We currently utilize [Pingboard](https://terminus-software-inc.pingboard.com/home) to best allocate who is at Terminus and what team they are currently on. 
+We currently utilize [Pingboard](https://terminus-software-inc.pingboard.com/home) to best allocate who is at Terminus and what team they are currently on.
 
 ## Teams: Product & Engineering
 **Leads:**
@@ -41,7 +41,7 @@ _Team membership need updating_
 
 ### User Experience
 **Team Leadership:**
-- Shelton Davis (Sr. UX Designer)
+- Shelton Davis (Director of UX)
 
 | Name  | Initiatives  |
 |----------|--------|
